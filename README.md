@@ -11,37 +11,23 @@ A monumental amount of talent and effort goes into Marlin production, and thanks
 - See the [Releases](https://github.com/MarlinFirmware/Marlin/releases) page for Release Notes on all current and previous versions of Marlin.
 - Check out the [RepRap.org Marlin Page](http://reprap.org/wiki/Marlin) for an overview of Marlin and its role in the RepRap project.
 
-<<<<<<< HEAD
-This Release branch contains the latest tagged version of Marlin (currently 1.1.7 – December 2017).
-=======
 ## Marlin 1.1.x
->>>>>>> 4f48ec549042f41ed1ff928f7b45dab368a24e3f
 
 The 1.1.x branch is home to all tagged releases of Marlin 1.1.
 
 Marlin 1.1.9 is the final release of the AVR-only flat version of Marlin Firmware, so there will be no further 1.1.x releases. However [`bugfix-1.1.x`](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x) will continue to receive patches for critical bugs, so be sure to test it (or [`bugfix-2.0.x`](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x)) before reporting any bugs you find in 1.1.9.
 
-<<<<<<< HEAD
-To submit patches and new features for Marlin 1.1 check out the [bugfix-1.1.x](https://github.com/MarlinFirmware/Marlin/tree/bugfix-1.1.x) branch, add your commits, and submit a Pull Request back to the `bugfix-1.1.x` branch. Periodically that branch will form the basis for the next minor release.
-
-Note that our "bugfix" branch will always contain the latest patches to the current release version. These patches may not be widely tested. As always, when using "nightly" builds of Marlin, proceed with full caution.
-=======
 ## Marlin 2.0.x
 
 [Marlin 2.0](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x) is the future, featuring a much-improved hierarchical file structure and full [32-bit support](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x) via a Hardware Access Layer (HAL). Marlin 2.0 continues to work with [Arduino IDE](https://www.arduino.cc/en/Main/Software) for the platforms it supports, and the excellent [PlatformIO IDE](https://platformio.org/platformio-ide) is recommended for the next generation of ARM-based boards. If you're looking for the very best that Marlin has to offer and aren't bothered by a few rough edges, give version 2.0 a try!
 
 ## Contributing to Marlin
->>>>>>> 4f48ec549042f41ed1ff928f7b45dab368a24e3f
 
 Click on the [Issue Queue](https://github.com/MarlinFirmware/Marlin/issues) and [Pull Requests](https://github.com/MarlinFirmware/Marlin/pulls) links above at any time to see what we're currently working on.
 
 To submit patches and new features for Marlin 2.0 check out the [bugfix-2.0.x](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x) branch, add your commits, and submit a Pull Request back to the `bugfix-2.0.x` branch. Once 2.0.x has been certified for a critical mass of common 32-bit boards, it will become the next major release and will be the basis for all future major and minor releases.
 
-<<<<<<< HEAD
-## Future Development
-=======
 Note that our "bugfix" branches always contain the latest patches and new code. These patches may not be widely tested. As always, when using "nightly" builds of Marlin, proceed with full caution.
->>>>>>> 4f48ec549042f41ed1ff928f7b45dab368a24e3f
 
 ## Marlin Resources
 
@@ -89,7 +75,6 @@ Notable contributors:
  - [[@android444](https://github.com/android444)]
  - [[@benlye](https://github.com/benlye)]
  - [[@bgort](https://github.com/bgort)]
- - [[@ejtagle](https://github.com/ejtagle)]
  - [[@Grogyan](https://github.com/Grogyan)]
  - [[@marcio-ao](https://github.com/marcio-ao)]
  - [[@maverikou](https://github.com/maverikou)]
